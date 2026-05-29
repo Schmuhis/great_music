@@ -486,5 +486,7 @@ void rickroll() {
 }
 
 void loop() {
-  unknown_sth();
+  rickroll();
+	boehmischer_traum();
+  cantina_band();
 }
